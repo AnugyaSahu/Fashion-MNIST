@@ -6,4 +6,4 @@ The Fashion MNIST dataset is a collection of 70,000 grayscale images of 10 diffe
 
 K-Fold Cross Validation is a technique used to evaluate the performance of a machine learning model by dividing the dataset into k equally sized folds. The model is trained k times, each time using k−1 folds for training and the remaining fold for validation, ensuring that every data point is used for both training and validation exactly once.
 
-2022
+[2022]
